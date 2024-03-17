@@ -1,0 +1,20 @@
+.button-styled{
+    background-color: aqua; 
+    color: purple; 
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+    height: 50px; width: 145px;
+    font-size: medium;
+}
+
+#playhead:hover{
+    font-style: italic;
+    color: blue;
+}
+
+.button-styled:hover{
+    font-style: italic;
+    color: blueviolet;
+    
+}
